@@ -1,4 +1,4 @@
-# MintCoin崔棉大师的花式发币法
+# MintCoin花式发币法
 
 ### 发行ERC20代币
 - [固定总量代币](./README/ERC20/ERC20FixedSupply.md)
